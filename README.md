@@ -1,1 +1,2 @@
-Personal Rust Playground repo
+# rust-playground
+My personal Rust playground repo
